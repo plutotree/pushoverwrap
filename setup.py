@@ -11,7 +11,7 @@ setup(
     description='A simple Pushover API wrapper.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/plutotree/pushovewrap',
+    url='https://github.com/plutotree/pushoverwrap',
     license='MIT',
     classifiers=[
         'Programming Language :: Python :: 3',
